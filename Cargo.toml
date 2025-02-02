@@ -1,0 +1,9 @@
+[package]
+author = ["fufie"]
+name = "imlib2-rs"
+version = "0.1.0"
+build = "build.rs"
+
+
+[build-dependencies]
+bindgen = "0.71.0"
